@@ -1,5 +1,7 @@
 # morevuex
 
+npm install buefy
+
 ## Project setup
 ```
 npm install
